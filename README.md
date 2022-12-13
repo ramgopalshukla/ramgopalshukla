@@ -3,7 +3,7 @@
 
 <img  alt="Coding" width="500" src="https://camo.githubusercontent.com/fffe3693d44b6b05cb4b79cdf000a8094f38eafdb1b3ab1d3e05eacc60ba6fbd/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d636f6d666f7274616126636f6c6f723d3031364545412673697a653d32342677696474683d353030266c696e65733d43757272656e746c792b4c6561726e696e672b46756c6c2d537461636b2b5765622b446576656c6f706d656e743b4f70656e2d536f757263652b446576656c6f7065723b4e6963652b746f2b6d6565742b796f752e2e2e"/>
 <h2>👨🏻‍💻About Me:</h2>
-
+<img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif"/>
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **MERN**
