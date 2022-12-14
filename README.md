@@ -71,7 +71,9 @@
 
 <img  alt="Coding" width="45px"   src="https://camo.githubusercontent.com/c19ed1b17d0d94a04e70a5c754d8cc907c9757286ef601c9d03de9c0c2e4b584/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74776974746572"/>
       </p>  
+<h2 align="left">📊 Github Stats</h2>
+ <img src="https://github-readme-stats.vercel.app/api?username=ramgopalshukla&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">  </img>
+   
 
- 
    </div>
 </div>
