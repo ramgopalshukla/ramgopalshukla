@@ -62,8 +62,8 @@
    <h3 align="center">Let's Connect !!</h3>
    <div align="center" >
       <p>
-         
- <img  alt="Coding" width="45px"   src="https://camo.githubusercontent.com/1b3a98a6f9dc0b661fff8ca80b84338580750ffba882bd625efe869293d05307/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e"/>
+         <a href="https://www.linkedin.com/in/ram-gopal-shukla-b8b580221/" target="_blank"><img  alt="Coding" width="45px"   src="https://camo.githubusercontent.com/1b3a98a6f9dc0b661fff8ca80b84338580750ffba882bd625efe869293d05307/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e"/> <a>
+ 
       
 <img  alt="Coding" width="45px"   src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67"/>
       
